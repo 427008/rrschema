@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T07:28:04.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.5.3" etag="1uk_pvEXkwXroYmTSfXT" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-16T13:26:01.862Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q-NielUcGR9CpvyaNOHf" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1350" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="agtlds2kx2dvJAUXPGzO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="agtlds2kx2dvJAUXPGzO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="преобразование XML -&amp;gt; JSON&lt;br&gt;с помощью Newtonsoft.Json JsonConvert.SerializeXMLNode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="400" width="240" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-11" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-15" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="запись &lt;br&gt;о земельном &lt;br&gt;участке?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="640" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="agtlds2kx2dvJAUXPGzO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;div&gt;Используем запрос c функциями поиска в JSON-данных, например:&lt;/div&gt;&lt;div&gt;,JSON_VALUE(JsonData, &#39;$.record.address_location.address.readable_address&#39;) AS Address&lt;/div&gt;&lt;div&gt;,JSON_QUERY(JsonData, &#39;$.record.contours_location.contours.contour&#39;) as GeomJson&lt;/div&gt;&lt;div&gt;Получаем значения и массивы с элементами, которые потом далее обрабатываем с использованием Newtonsoft.Json&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=6;spacingBottom=6;spacingRight=6;spacingLeft=6;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="640" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="запись&lt;br&gt;о сооружении?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;Все исходные данные сохраняются в том виде как пришли.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Имеется программа, которая перебирает все записи и составляет схему (словарь) всех возможных путей, подобно XPATH, где находятся данные. Словари сохраняются для каждого типа записей отдельно. Это сделано в дополнение к предоставленным XSD схемам документов. Пример (фрагмент) для ЗУ:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data.cad_number&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data.definition&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data.previously_posted&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data.quarter_cad_number&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;object.common_data.temporary_info&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;....&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Из исходных данных заполняются &quot;плоские&quot; реляционные таблицы, поля в записях которых заполняются при чтении по соответстующим путям из исходного документа.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacingLeft=10;spacingTop=6;spacingBottom=6;spacingRight=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="80" width="640" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-1" value="Программа, конвертирующая исходные данные&lt;br&gt;в удобный для нас табличный формат" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="350" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-2" value="Предварительные задачи, выполненные до конвертации данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="40" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="agtlds2kx2dvJAUXPGzO-6" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-6" value="Для registry_record читаются тип&amp;nbsp; (base_data) и метаданные (metadata)&lt;br&gt;В соответствии с типом используется путь для чтения кадастрового номера.&lt;br&gt;Тип записи, кадастровый номер и метаданные сохраняются." style="rounded=1;whiteSpace=wrap;html=1;spacingTop=6;spacingBottom=6;spacingRight=6;spacingLeft=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="500" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-9" value="Все елементы, полученные с помощью JSON_QUERY десериализуются в классы с помощью Newtonsoft.Json. По каждому такому елементу есть функция, которая получает набор полей. Например, в случае с геометрией она читает контура, елементы, точки и пр. и создает для MSSQL геометрию, текстовое описание геометрии, и результат валидации (если есть ошибки в геометрии).&lt;br&gt;Значения, полученные напрямую и обработанные набором функций сохраняются в виде записи в таблице. Дополнительно при сложной геометрии по отдельности сохраняются все контура." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=6;spacingBottom=6;spacingRight=6;spacingLeft=6;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="800" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-17" value="для каждого типа записи есть набор функций по приведению сложной структуры к табличному виду." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1040" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-18" value="." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agtlds2kx2dvJAUXPGzO-19" value="." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="767" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
